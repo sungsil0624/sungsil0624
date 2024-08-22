@@ -6,4 +6,7 @@
 
 [![](https://banner.codetree.ai/v1/banner/ht0729)](https://www.codetree.ai/profiles/ht0729)
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=GCU+Software+19;GCU-KEA-4TH)](https://git.io/typing-svg)
+
 </div>
