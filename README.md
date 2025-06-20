@@ -10,6 +10,7 @@
 
 ### LICENSE
 * 정보처리기사 (2024.09)
+* sqld (2025.06)
 * TOEIC Speaking IH - 140 (2024.12)
 
 ### STACKS
